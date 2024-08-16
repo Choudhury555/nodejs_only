@@ -1,0 +1,15 @@
+{
+  "name": "nodejs_only",
+  "version": "1.0.0",
+  "description": "this is sample",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "oracledb": "^6.6.0",
+    "pokemon": "^3.2.1"
+  }
+}
